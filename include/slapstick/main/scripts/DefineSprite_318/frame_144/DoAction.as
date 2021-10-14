@@ -1,0 +1,1 @@
+albo.gotoAndStop(1);

@@ -1,0 +1,1 @@
+starType = 1;

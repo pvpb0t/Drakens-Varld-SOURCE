@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="40.1px" width="33.75px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 16.9, 40.1)">
+    <path d="M-12.7 -34.45 L16.8 -34.45 16.8 0.0 -12.7 0.0 -12.7 -34.45" fill="#fdc8ae" fill-rule="evenodd" stroke="none"/>
+    <path d="M16.35 -0.3 Q15.05 -3.4 10.5 -3.6 6.0 -3.4 4.7 -0.3 L-0.5 -0.3 Q-1.8 -3.4 -6.35 -3.6 -10.85 -3.4 -12.15 -0.3 L-12.8 -0.3 -12.8 -12.3 -2.2 -12.3 Q-0.85 -9.8 2.1 -9.65 5.0 -9.8 6.35 -12.3 L16.75 -12.3 16.75 -0.3 16.35 -0.3" fill="#24701f" fill-rule="evenodd" stroke="none"/>
+    <path d="M16.85 -5.6 L-12.75 -5.65 -12.75 -12.05 -2.35 -12.05 Q-0.95 -9.55 2.05 -9.4 5.05 -9.55 6.45 -12.05 L16.85 -12.05 16.85 -5.6" fill="#33a02c" fill-rule="evenodd" stroke="none"/>
+    <path d="M16.75 -0.05 Q15.4 -3.15 10.75 -3.35 6.05 -3.1 4.75 -0.05 L-0.65 -0.05 Q-1.95 -3.15 -6.65 -3.35 -11.3 -3.1 -12.65 -0.05 L-12.75 -0.05 -12.75 -5.65 16.85 -5.6 16.85 -0.05 16.75 -0.05" fill="#8a634a" fill-rule="evenodd" stroke="none"/>
+    <path d="M-6.6 -3.35 Q-1.95 -3.1 -0.6 -0.05 L-12.6 -0.05 Q-11.25 -3.1 -6.6 -3.35" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    <path d="M10.75 -3.35 Q15.4 -3.1 16.75 -0.05 L4.75 -0.05 Q6.1 -3.1 10.75 -3.35" fill="#000000" fill-rule="evenodd" stroke="none"/>
+    <path d="M-16.9 -40.1 L-12.75 -34.55 -12.75 -0.05 -16.9 -8.15 -16.9 -40.1" fill="#caa08b" fill-rule="evenodd" stroke="none"/>
+    <path d="M-12.75 -12.4 L-12.75 -0.3 -16.9 -8.4 -16.9 -20.45 -12.75 -12.4" fill="#1f601a" fill-rule="evenodd" stroke="none"/>
+    <path d="M-16.9 -8.2 L-16.9 -13.75 -12.75 -5.65 -12.75 -0.1 -16.9 -8.2" fill="#674a37" fill-rule="evenodd" stroke="none"/>
+    <path d="M-16.9 -13.7 L-16.9 -20.15 -12.75 -12.05 -12.75 -5.6 -16.9 -13.7" fill="#298023" fill-rule="evenodd" stroke="none"/>
+    <path d="M-13.5 -8.0 Q-13.4 -6.05 -13.8 -6.25 -14.2 -6.8 -14.35 -8.8 L-13.5 -8.0" fill="#e4b49d" fill-rule="evenodd" stroke="none"/>
+    <path d="M-13.4 -7.4 L-13.45 -7.2 -13.55 -7.75 -13.45 -7.95 -13.4 -7.4" fill="#e4b49d" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

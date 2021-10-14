@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="95.9px" width="65.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 38.8, 116.4)">
+    <path d="M19.8 -108.1 L26.1 -108.9 26.3 -107.95 26.9 -96.0 26.85 -96.0 20.65 -95.05 19.8 -108.1" fill="#5a0a0d" fill-rule="evenodd" stroke="none"/>
+    <path d="M26.1 -108.9 L19.8 -108.1 10.3 -111.05 16.95 -111.75 26.1 -108.9" fill="#5c0f11" fill-rule="evenodd" stroke="none"/>
+    <path d="M26.85 -96.0 L26.9 -96.0 26.9 -95.95 26.85 -96.0" fill="#823235" fill-rule="evenodd" stroke="none"/>
+    <path d="M25.45 -32.9 L23.6 -22.6 17.55 -20.5 19.4 -31.0 25.45 -32.9" fill="#3c0608" fill-rule="evenodd" stroke="none"/>
+    <path d="M3.5 -69.35 L24.55 -34.75 25.45 -32.9 19.4 -31.0 -2.65 -68.05 3.5 -69.35" fill="#750e12" fill-rule="evenodd" stroke="none"/>
+    <path d="M-26.0 -116.35 L-24.95 -116.4 -7.9 -88.25 -11.7 -83.25 -31.2 -115.85 -26.0 -116.35" fill="#730e12" fill-rule="evenodd" stroke="none"/>
+    <path d="M-37.5 -115.7 L-26.0 -116.35 -31.2 -115.85 -37.5 -115.7" fill="#f5a6a9" fill-rule="evenodd" stroke="none"/>
+    <path d="M-9.75 -54.25 L-23.75 -38.35 -24.15 -37.95 -30.1 -36.3 -11.8 -57.55 -9.75 -54.25" fill="#600c0f" fill-rule="evenodd" stroke="none"/>
+    <path d="M20.65 -95.05 L26.85 -96.0 26.9 -95.95 3.5 -69.35 -2.65 -68.05 20.65 -95.05" fill="#641114" fill-rule="evenodd" stroke="none"/>
+    <path d="M19.8 -108.1 L20.65 -95.05 -2.65 -68.05 19.4 -31.0 17.55 -20.5 9.05 -21.5 -9.75 -54.25 -11.8 -57.55 -30.1 -36.3 -37.15 -39.8 -37.7 -50.55 -20.3 -72.55 -38.8 -104.45 -38.4 -115.7 -37.5 -115.7 -31.2 -115.85 -11.7 -83.25 -7.9 -88.25 10.3 -111.05 19.8 -108.1" fill="#b30000" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

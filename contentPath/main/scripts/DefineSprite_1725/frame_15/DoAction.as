@@ -1,0 +1,2 @@
+cam.play();
+stop();

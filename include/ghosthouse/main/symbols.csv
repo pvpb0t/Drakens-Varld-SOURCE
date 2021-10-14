@@ -1,0 +1,12 @@
+1;wolves
+2;gateOpen
+3;gateClose
+4;S_ghost
+5;S_bgSound
+6;draken_info1
+9;miniStar_trail
+14;char
+197;__Packages.mx.transitions.OnEnterFrameBeacon
+198;__Packages.mx.transitions.BroadcasterMX
+199;__Packages.mx.transitions.Tween
+200;__Packages.mx.transitions.easing.Regular

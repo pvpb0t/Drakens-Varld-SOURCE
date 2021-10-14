@@ -1,0 +1,18 @@
+body {
+    background-image: url("../img/bg.gif");
+    margin:0px;
+    padding:0px;
+}
+
+#content {
+}
+
+.bgStyle {
+    background-color: #ffffff;
+    float: left;
+    height:402px; 
+}
+
+img {
+    border: none;
+}

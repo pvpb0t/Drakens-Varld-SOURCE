@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="94.2px" width="34.95px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 360.85, 42.95)">
+    <path d="M-359.45 28.75 Q-355.85 61.2 -339.35 46.9 -322.85 32.55 -326.6 -2.85 -330.4 -38.3 -334.1 -40.6 -337.85 -42.95 -341.8 -42.95 L-348.55 -42.1 Q-351.3 -41.2 -351.3 -39.95 -351.3 -38.7 -357.2 -21.2 -363.1 -3.75 -359.45 28.75" fill="#ffffff" fill-opacity="0.7019608" fill-rule="evenodd" stroke="none">
+      <animate attributeName="fill" dur="2s" repeatCount="indefinite" values="#ffffff;#ffffff"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.7019608;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-359.45 28.75 Q-355.85 61.2 -339.35 46.9 -322.85 32.55 -326.6 -2.85 -330.4 -38.3 -334.1 -40.6 -337.85 -42.95 -341.8 -42.95 L-348.55 -42.1 Q-351.3 -41.2 -351.3 -39.95 -351.3 -38.7 -357.2 -21.2 -363.1 -3.75 -359.45 28.75;M-359.45 28.75 Q-355.85 61.2 -339.35 46.9 -322.85 32.55 -326.6 -2.85 -330.4 -38.3 -334.1 -40.6 -337.85 -42.95 -341.8 -42.95 L-348.55 -42.1 Q-351.3 -41.2 -351.3 -39.95 -351.3 -38.7 -357.2 -21.2 -363.1 -3.75 -359.45 28.75"/>
+    </path>
+    <path d="M-359.45 28.75 Q-363.1 -3.75 -357.2 -21.2 -351.3 -38.7 -351.3 -39.95 -351.3 -41.2 -348.55 -42.1 L-341.8 -42.95 Q-337.85 -42.95 -334.1 -40.6 -330.4 -38.3 -326.6 -2.85 -322.85 32.55 -339.35 46.9 -355.85 61.2 -359.45 28.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-359.45 28.75 Q-363.1 -3.75 -357.2 -21.2 -351.3 -38.7 -351.3 -39.95 -351.3 -41.2 -348.55 -42.1 L-341.8 -42.95 Q-337.85 -42.95 -334.1 -40.6 -330.4 -38.3 -326.6 -2.85 -322.85 32.55 -339.35 46.9 -355.85 61.2 -359.45 28.75;M-359.45 28.75 Q-363.1 -3.75 -357.2 -21.2 -351.3 -38.7 -351.3 -39.95 -351.3 -41.2 -348.55 -42.1 L-341.8 -42.95 Q-337.85 -42.95 -334.1 -40.6 -330.4 -38.3 -326.6 -2.85 -322.85 32.55 -339.35 46.9 -355.85 61.2 -359.45 28.75"/>
+    </path>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+drink.gotoAndStop("tomt");

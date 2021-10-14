@@ -1,0 +1,1 @@
+_parent.newDrop(i);

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="9.45px" width="99.7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 49.75, 11.8)">
+    <path d="M-49.75 -7.1 Q-49.75 -5.1 -37.8 -3.75 L-8.75 -2.35 20.2 -3.75 Q32.25 -5.1 32.25 -7.1 32.25 -9.1 20.2 -10.45 L-8.75 -11.8 -37.8 -10.45 Q-49.75 -9.1 -49.75 -7.1" fill="#000000" fill-opacity="0.2901961" fill-rule="evenodd" stroke="none">
+      <animate attributeName="fill" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.2901961;0.2901961"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-49.75 -7.1 Q-49.75 -5.1 -37.8 -3.75 L-8.75 -2.35 20.2 -3.75 Q32.25 -5.1 32.25 -7.1 32.25 -9.1 20.2 -10.45 L-8.75 -11.8 -37.8 -10.45 Q-49.75 -9.1 -49.75 -7.1;M-35.6 -7.1 Q-35.6 -5.1 -23.1 -3.75 L7.2 -2.35 37.4 -3.75 Q49.95 -5.1 49.95 -7.1 49.95 -9.1 37.4 -10.45 L7.2 -11.8 -23.1 -10.45 Q-35.6 -9.1 -35.6 -7.1"/>
+    </path>
+    <path d="M-49.75 -7.1 Q-49.75 -9.1 -37.8 -10.45 L-8.75 -11.8 20.2 -10.45 Q32.25 -9.1 32.25 -7.1 32.25 -5.1 20.2 -3.75 L-8.75 -2.35 -37.8 -3.75 Q-49.75 -5.1 -49.75 -7.1" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-49.75 -7.1 Q-49.75 -9.1 -37.8 -10.45 L-8.75 -11.8 20.2 -10.45 Q32.25 -9.1 32.25 -7.1 32.25 -5.1 20.2 -3.75 L-8.75 -2.35 -37.8 -3.75 Q-49.75 -5.1 -49.75 -7.1;M-35.6 -7.1 Q-35.6 -9.1 -23.1 -10.45 L7.2 -11.8 37.4 -10.45 Q49.95 -9.1 49.95 -7.1 49.95 -5.1 37.4 -3.75 L7.2 -2.35 -23.1 -3.75 Q-35.6 -5.1 -35.6 -7.1"/>
+    </path>
+  </g>
+</svg>

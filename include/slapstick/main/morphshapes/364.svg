@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="119.5px" width="77.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 51.9, 39.8)">
+    <path d="M-40.15 50.45 Q10.0 13.6 24.6 -39.3" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#ffffff;#ffffff"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-40.15 50.45 Q10.0 13.6 24.6 -39.3;M-51.4 79.2 Q-23.65 67.25 -4.4 56.45"/>
+    </path>
+  </g>
+</svg>

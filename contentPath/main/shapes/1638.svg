@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="140.5px" width="194.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 85.15, 74.0)">
+    <path d="M-84.4 23.75 L-85.15 24.25 -77.65 -17.0 -9.9 -73.25 -84.4 23.75" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-85.15 24.25 L-84.4 23.75 -10.65 -32.0 -3.65 5.25 -84.9 24.5 -85.15 24.25 M-0.65 38.75 L-3.65 5.25 -3.15 5.25 108.6 -7.75 -0.65 38.75" fill="#fe0000" fill-rule="evenodd" stroke="none"/>
+    <path d="M104.6 -49.75 L105.6 -50.0 109.35 -7.75 108.6 -7.75 -3.15 5.25 104.6 -49.75" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-0.4 -36.5 L-10.65 -32.0 -9.4 -73.75 -8.65 -74.0 -0.4 -36.5" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-84.4 23.75 L-9.9 -73.25 -9.4 -73.75 -10.65 -32.0 -84.4 23.75" fill="url(#gradient3)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-3.65 5.25 L-10.65 -32.0 -0.4 -36.5 -3.15 5.25 -3.65 5.25" fill="url(#gradient4)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-0.65 38.75 L-3.4 66.5 -84.9 24.5 -0.65 38.75" fill="url(#gradient5)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-84.9 24.5 L-3.65 5.25 -0.65 38.75 -84.9 24.5" fill="#fd0000" fill-rule="evenodd" stroke="none"/>
+    <path d="M-3.15 5.25 L-0.4 -36.5 104.6 -49.75 -3.15 5.25" fill="url(#gradient6)" fill-rule="evenodd" stroke="none"/>
+    <path d="M109.35 -7.75 L102.6 50.5 -0.65 38.75 108.6 -7.75 109.35 -7.75" fill="url(#gradient7)" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0156, 0.0093, -0.5115, 0.8593, -64.8, -9.4)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#a70000"/>
+      <stop offset="1.0" stop-color="#af0000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.003, 0.0256, -0.9933, 0.1155, 107.8, -29.05)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#f70000"/>
+      <stop offset="1.0" stop-color="#ff0000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0064, 7.0E-4, -0.1116, -0.9937, -5.75, -36.05)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#a70000"/>
+      <stop offset="1.0" stop-color="#b10000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0163, 0.0105, -0.5425, 0.8401, -71.65, 33.0)" gradientUnits="userSpaceOnUse" id="gradient3" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ab0000"/>
+      <stop offset="1.0" stop-color="#b70000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.0063, 5.0E-4, -0.0791, -0.9969, -5.7, -36.2)" gradientUnits="userSpaceOnUse" id="gradient4" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#a70000"/>
+      <stop offset="1.0" stop-color="#b10000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0037, -0.0164, 0.9755, 0.22, -0.2, 52.9)" gradientUnits="userSpaceOnUse" id="gradient5" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#f20000"/>
+      <stop offset="1.0" stop-color="#fe0000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.006, 0.0235, -0.969, 0.247, 4.4, -17.35)" gradientUnits="userSpaceOnUse" id="gradient6" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#f30000"/>
+      <stop offset="1.0" stop-color="#ff0000"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(-0.01, -0.031, 0.9521, -0.3059, 94.2, 24.95)" gradientUnits="userSpaceOnUse" id="gradient7" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#fa0000"/>
+      <stop offset="1.0" stop-color="#ff0000"/>
+    </linearGradient>
+  </defs>
+</svg>

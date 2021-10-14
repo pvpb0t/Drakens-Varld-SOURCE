@@ -1,0 +1,929 @@
+1;S_pusselbit
+3;spikes
+6;clouds
+9;blockiez_smokeClip
+11;blockiez_flower_2
+13;blockiez_flower_1
+18;wave
+24;waterFall_drop3
+29;waterFall_drop2
+34;waterFall_drop1
+36;blockiez_man4
+49;intro_prabubbla2
+66;vrak
+95;älgen_ghostClip
+126;kossan påta
+174;follow
+187;älgen Holder
+191;älgen buske
+206;hotspot
+219;blockiez_man3
+225;blockiez_man2
+230;blockiez_man1
+261;blockiez_väderkvarn
+263;blockiez_flower_3
+269;blockiez_man6
+271;blockiez_godishus
+297;blockiez_flowers
+299;blockiez_hus
+305;blockiez_hund
+307;blockiez_livboj
+309;blockiez_staty
+317;hotspot copy
+319;blockiez_round_trees_2
+375;blockiez_maskin
+377;blockiez_round_trees_5
+402;blockiez_elefant
+404;blockiez_gran1
+406;blockiez_gran2
+408;blockiez_gran3
+410;blockiez_round_trees_3
+412;blockiez_round_trees_4
+414;blockiez_round_trees_1
+479;svartPlatta
+486;pusselClip
+540;svartPlatta3
+683;svartPlatta2
+687;fader
+1753;__Packages.as.deadThings
+1754;__Packages.as.hotspot
+1755;__Packages.as.pusselbit
+1756;__Packages.mx.transitions.OnEnterFrameBeacon
+1757;__Packages.mx.transitions.BroadcasterMX
+1758;__Packages.mx.transitions.Tween
+1759;__Packages.mx.transitions.easing.Regular
+1760;__Packages.as.glow
+1761;__Packages.as.walk
+1762;__Packages.as.star
+1763;__Packages.as.game
+699;3x2_grotta
+701;albo_goal
+704;albo_hus
+706;berg_5x2
+708;berg_5x3_b
+711;bommar1
+713;bommar2
+716;buske
+719;buske2
+728;flower_sunflower2
+728;flower_sunflower2
+734;draken_hus
+735;ek
+687;fader
+748;flower_blue
+761;flower_purple
+771;flower_sunflower
+783;flower_yellow
+785;fågelskrämma
+795;ghosthouse
+797;ghostHouse_fence
+801;kossan_hus
+803;kossan_staket1
+805;kossan_staket2
+807;kossan_stånd
+808;lamp
+809;magic door
+812;majs
+899;man
+902;miniStar_trail
+911;palm1
+915;palm2
+917;parasoll1
+919;parasoll2
+921;parasoll3
+953;pir
+957;scen
+959;scen_bord
+961;skylt_4x2
+963;skylt_4x3
+965;skylt_5x2
+967;skylt_boat
+969;skylt_draken
+971;skylt_ghost
+973;skylt_haj1
+975;skylt_haj2
+977;skylt_kossan
+979;skylt_musik
+1003;sopTipp
+1005;staket_2x5_back
+1009;staket_2x5_front
+1015;starClip
+1017;stone_1
+1019;stone_1_dark
+1021;stone_2
+1022;stone_3
+683;svartPlatta2
+540;svartPlatta3
+1025;train_g
+1026;train
+1028;train_smoke
+1030;tree 1
+1033;tree 1_tall
+1035;tree 2
+1037;tree 3
+1045;tree 4
+1047;tree oak
+1049;tree_blockiez_1
+1051;tree_blockiez_2
+1054;tree_dead_leaves
+1057;tree_dead_noleaves
+1060;tree_dead_noleaves2
+1063;tree_gran
+1066;tree_gran 2
+1068;tunnel_4x2
+1071;tuva__bigdead
+1073;tuva_big
+1075;älgen_bord
+1077;älgen_elsladd
+1080;älgen_hus
+1082;älgen_skylt
+1084;älgen_stol1
+1086;älgen_stol2
+1088;älgen_stol3
+1090;älgen_stolpe
+1112;draken_holder
+1115;katapultG
+1123;kossan_holder
+486;pusselClip
+1126;tree_dead_noleaves copy
+1129;tree_dead_noleaves2 copy
+1138;älgen_snickra
+479;svartPlatta
+1141;buske_big
+1186;butterfly
+1187;albo_problem
+1188;algen_problem
+1189;S_blockiez
+1190;S_bg1
+1191;S_bg2
+1192;starSound
+1193;draken_problem
+1194;hammer
+1195;kossan_problem
+1197;draken_intro
+1198;draken_intro_2
+1199;droppe
+1200;S_bg3
+1201;droppe2
+1202;S_stjarna
+1;S_pusselbit
+1203;S_hotspot
+414;blockiez_round_trees_1
+412;blockiez_round_trees_4
+410;blockiez_round_trees_3
+410;blockiez_round_trees_3
+408;blockiez_gran3
+406;blockiez_gran2
+408;blockiez_gran3
+404;blockiez_gran1
+406;blockiez_gran2
+402;blockiez_elefant
+414;blockiez_round_trees_1
+412;blockiez_round_trees_4
+377;blockiez_round_trees_5
+375;blockiez_maskin
+408;blockiez_gran3
+404;blockiez_gran1
+406;blockiez_gran2
+410;blockiez_round_trees_3
+377;blockiez_round_trees_5
+410;blockiez_round_trees_3
+412;blockiez_round_trees_4
+412;blockiez_round_trees_4
+414;blockiez_round_trees_1
+377;blockiez_round_trees_5
+319;blockiez_round_trees_2
+410;blockiez_round_trees_3
+410;blockiez_round_trees_3
+317;hotspot copy
+1015;starClip
+404;blockiez_gran1
+406;blockiez_gran2
+406;blockiez_gran2
+410;blockiez_round_trees_3
+412;blockiez_round_trees_4
+377;blockiez_round_trees_5
+410;blockiez_round_trees_3
+412;blockiez_round_trees_4
+410;blockiez_round_trees_3
+377;blockiez_round_trees_5
+377;blockiez_round_trees_5
+410;blockiez_round_trees_3
+404;blockiez_gran1
+406;blockiez_gran2
+404;blockiez_gran1
+404;blockiez_gran1
+406;blockiez_gran2
+410;blockiez_round_trees_3
+408;blockiez_gran3
+404;blockiez_gran1
+408;blockiez_gran3
+1049;tree_blockiez_1
+1049;tree_blockiez_1
+1051;tree_blockiez_2
+1049;tree_blockiez_1
+309;blockiez_staty
+307;blockiez_livboj
+305;blockiez_hund
+299;blockiez_hus
+297;blockiez_flowers
+271;blockiez_godishus
+404;blockiez_gran1
+408;blockiez_gran3
+406;blockiez_gran2
+404;blockiez_gran1
+406;blockiez_gran2
+406;blockiez_gran2
+406;blockiez_gran2
+269;blockiez_man6
+1049;tree_blockiez_1
+404;blockiez_gran1
+1049;tree_blockiez_1
+1051;tree_blockiez_2
+1051;tree_blockiez_2
+1049;tree_blockiez_1
+263;blockiez_flower_3
+404;blockiez_gran1
+408;blockiez_gran3
+406;blockiez_gran2
+404;blockiez_gran1
+408;blockiez_gran3
+406;blockiez_gran2
+261;blockiez_väderkvarn
+1051;tree_blockiez_2
+230;blockiez_man1
+225;blockiez_man2
+219;blockiez_man3
+808;lamp
+206;hotspot
+1327;hotSpotAnim2
+716;buske
+716;buske
+1080;älgen_hus
+728;flower_sunflower2
+771;flower_sunflower
+1021;stone_2
+1017;stone_1
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1045;tree 4
+1045;tree 4
+1021;stone_2
+1021;stone_2
+1030;tree 1
+1021;stone_2
+1045;tree 4
+1045;tree 4
+1045;tree 4
+1045;tree 4
+1030;tree 1
+1017;stone_1
+1082;älgen_skylt
+1084;älgen_stol1
+1086;älgen_stol2
+1088;älgen_stol3
+1075;älgen_bord
+716;buske
+716;buske
+716;buske
+1327;hotSpotAnim2
+1090;älgen_stolpe
+1077;älgen_elsladd
+761;flower_purple
+748;flower_blue
+783;flower_yellow
+748;flower_blue
+783;flower_yellow
+761;flower_purple
+748;flower_blue
+761;flower_purple
+761;flower_purple
+486;pusselClip
+1141;buske_big
+191;älgen buske
+1021;stone_2
+1017;stone_1
+1030;tree 1
+1035;tree 2
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1035;tree 2
+1030;tree 1
+1035;tree 2
+1037;tree 3
+1035;tree 2
+1030;tree 1
+1030;tree 1
+1037;tree 3
+1022;stone_3
+979;skylt_musik
+1021;stone_2
+187;älgen Holder
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+1030;tree 1
+1015;starClip
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+1021;stone_2
+699;3x2_grotta
+1112;draken_holder
+1068;tunnel_4x2
+735;ek
+1066;tree_gran 2
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+961;skylt_4x2
+1026;train
+1123;kossan_holder
+1063;tree_gran
+1026;train
+711;bommar1
+713;bommar2
+706;berg_5x2
+1017;stone_1
+1021;stone_2
+1021;stone_2
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1035;tree 2
+1021;stone_2
+1021;stone_2
+1021;stone_2
+1021;stone_2
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+965;skylt_5x2
+1015;starClip
+761;flower_purple
+957;scen
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1033;tree 1_tall
+1033;tree 1_tall
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+716;buske
+716;buske
+716;buske
+716;buske
+959;scen_bord
+783;flower_yellow
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+1030;tree 1
+1327;hotSpotAnim2
+486;pusselClip
+174;follow
+174;follow
+174;follow
+174;follow
+174;follow
+734;draken_hus
+1045;tree 4
+1035;tree 2
+1045;tree 4
+1037;tree 3
+1035;tree 2
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1045;tree 4
+1030;tree 1
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+1327;hotSpotAnim2
+1030;tree 1
+1045;tree 4
+1115;katapultG
+783;flower_yellow
+1138;älgen_snickra
+486;pusselClip
+1030;tree 1
+1037;tree 3
+1030;tree 1
+1045;tree 4
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+969;skylt_draken
+967;skylt_boat
+1021;stone_2
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+785;fågelskrämma
+1015;starClip
+963;skylt_4x3
+704;albo_hus
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1035;tree 2
+716;buske
+701;albo_goal
+716;buske
+716;buske
+716;buske
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+812;majs
+1327;hotSpotAnim2
+1021;stone_2
+1017;stone_1
+1464;albatrossen fly
+486;pusselClip
+1126;tree_dead_noleaves copy
+1071;tuva__bigdead
+1071;tuva__bigdead
+1071;tuva__bigdead
+1071;tuva__bigdead
+1126;tree_dead_noleaves copy
+1071;tuva__bigdead
+771;flower_sunflower
+1071;tuva__bigdead
+771;flower_sunflower
+1071;tuva__bigdead
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1066;tree_gran 2
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1057;tree_dead_noleaves
+771;flower_sunflower
+1071;tuva__bigdead
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1066;tree_gran 2
+977;skylt_kossan
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+735;ek
+1030;tree 1
+1045;tree 4
+1035;tree 2
+971;skylt_ghost
+1123;kossan_holder
+803;kossan_staket1
+801;kossan_hus
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1030;tree 1
+1045;tree 4
+1030;tree 1
+1045;tree 4
+1030;tree 1
+716;buske
+716;buske
+807;kossan_stånd
+748;flower_blue
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+748;flower_blue
+761;flower_purple
+783;flower_yellow
+748;flower_blue
+761;flower_purple
+1045;tree 4
+805;kossan_staket2
+1327;hotSpotAnim2
+126;kossan påta
+486;pusselClip
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+761;flower_purple
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+1030;tree 1
+1030;tree 1
+1035;tree 2
+917;parasoll1
+919;parasoll2
+921;parasoll3
+803;kossan_staket1
+1030;tree 1
+1030;tree 1
+953;pir
+1327;hotSpotAnim2
+783;flower_yellow
+761;flower_purple
+783;flower_yellow
+486;pusselClip
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1066;tree_gran 2
+1066;tree_gran 2
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1066;tree_gran 2
+1063;tree_gran
+1063;tree_gran
+1071;tuva__bigdead
+797;ghostHouse_fence
+795;ghosthouse
+1063;tree_gran
+1060;tree_dead_noleaves2
+1129;tree_dead_noleaves2 copy
+1060;tree_dead_noleaves2
+486;pusselClip
+1327;hotSpotAnim2
+95;älgen_ghostClip
+761;flower_purple
+1030;tree 1
+1063;tree_gran
+1030;tree 1
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1030;tree 1
+975;skylt_haj2
+761;flower_purple
+783;flower_yellow
+1005;staket_2x5_back
+809;magic door
+1009;staket_2x5_front
+1030;tree 1
+783;flower_yellow
+783;flower_yellow
+783;flower_yellow
+973;skylt_haj1
+1030;tree 1
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1566;albo_Holder
+1063;tree_gran
+1063;tree_gran
+1073;tuva_big
+1003;sopTipp
+1073;tuva_big
+1073;tuva_big
+1073;tuva_big
+1073;tuva_big
+1073;tuva_big
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1063;tree_gran
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1030;tree 1
+1327;hotSpotAnim2
+919;parasoll2
+917;parasoll1
+1015;starClip
+1045;tree 4
+1030;tree 1
+1045;tree 4
+1030;tree 1
+66;vrak
+911;palm1
+915;palm2
+911;palm1
+911;palm1
+719;buske2
+719;buske2
+719;buske2
+809;magic door
+486;pusselClip
+1030;tree 1
+1037;tree 3
+1030;tree 1
+1045;tree 4
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+969;skylt_draken
+967;skylt_boat
+1021;stone_2
+761;flower_purple
+761;flower_purple
+783;flower_yellow
+783;flower_yellow
+1112;draken_holder
+49;intro_prabubbla2
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+899;man
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
+486;pusselClip
